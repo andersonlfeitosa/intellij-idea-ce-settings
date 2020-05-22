@@ -29,9 +29,9 @@
         <entry key="Move" value="PASSED" />
         <entry key="Multiple Selections" value="PASSED" />
         <entry key="Navigation.Declaration/Implementation" value="PASSED" />
-        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
+        <entry key="Navigation.FileStructure" value="PASSED" />
         <entry key="Navigation.JumptoSource" value="PASSED" />
-        <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
+        <entry key="Navigation.Next/PreviousOccurrences" value="PASSED" />
         <entry key="Postfix Completion" value="PASSED" />
         <entry key="Refactorings.ExtractMethod" value="PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />

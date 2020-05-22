@@ -19,7 +19,7 @@
         <entry key="Actions" value="PASSED" />
         <entry key="Basic Completion" value="PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
-        <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
+        <entry key="CodeAssistance.EditorCodingAssistance" value="PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="PASSED" />
         <entry key="Collapse" value="PASSED" />
@@ -28,9 +28,9 @@
         <entry key="Duplicate" value="PASSED" />
         <entry key="Move" value="PASSED" />
         <entry key="Multiple Selections" value="PASSED" />
-        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
-        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Postfix Completion" value="PASSED" />
         <entry key="Refactorings.ExtractMethod" value="PASSED" />
